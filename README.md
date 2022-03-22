@@ -9,7 +9,6 @@
 
 ### My Stats:
 [![Citicxs GitHub stats](https://github-readme-stats.vercel.app/api?username=Citicx&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Citicx&langs_count=4&layout=compact&theme=tokyonight&show_icons=true)
 
 
 ### Top Languages:
