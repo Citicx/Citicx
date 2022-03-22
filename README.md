@@ -5,6 +5,6 @@
 -🎨 Designer at [NetherGames](https://github.com/NetherGamesMC)
 
 
-[![Citicxs GitHub stats](https://github-readme-stats.vercel.app/api?username=Citicx)](https://github.com/anuraghazra/github-readme-stats)
+[![Citicxs GitHub stats](https://github-readme-stats.vercel.app/api?username=Citicx&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages]([![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Citicx&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/anuraghazra/github-readme-stats))
