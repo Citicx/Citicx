@@ -5,6 +5,7 @@
 - 💻 Developer and Head Designer at [Zeqa](https://github.com/zeqanetwork)
 
 - 🎨 Designer at [NetherGames](https://github.com/NetherGamesMC)
+- 🎨 Designer at [HyperLands](https://github.com/HyperLandsBE)
 
 
 ### My Stats:
