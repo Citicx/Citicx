@@ -2,7 +2,7 @@
 
 
 ### Where I Work:
-- 💻 Developer and Head Designer at [Zeqa](https://zeqa.tebex.io)
+- 💻 Developer and Head Designer at [Zeqa](https://zeqa.tebex.io/about)
 - 🎨 Designer at [NetherGames](https://nethergames.org)
 - 💻 Developer at [STCraft](https://stcraftnet.com)
 - 🎨 Designer at [HyperLands](https://github.com/HyperLandsBE)
