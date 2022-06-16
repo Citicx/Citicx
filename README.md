@@ -12,7 +12,7 @@
 [![Citicxs GitHub stats](https://github-readme-stats.vercel.app/api?username=Citicx&theme=tokyonight&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### My Top Languages:
-[![Citicxs GitHub stats]("https://github-readme-stats.vercel.app/api/top-langs/?username=Citicx&theme=tokyonight&layout=compact)]
+[![Citicxs GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Citicx&theme=tokyonight&layout=compact)]
 
 ### Other:
 ![](https://komarev.com/ghpvc/?username=Citicx&style=flat-square)
