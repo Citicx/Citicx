@@ -8,3 +8,4 @@ I see you've found my GitHub. I don't upload much here, so don't expect a lot!
 - 🎨 Developer and Head Designer at [Zeqa](https://github.com/Zeqa-network)
 - 🎨 Designer at [NetherGames](https://nethergames.org)
 
+https://github-readme-stats.vercel.app/api/top-langs/?username=Citicx&theme=tokyonight&layout=compact&count_private=true
